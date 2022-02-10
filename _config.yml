@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: AbuQdais Amani's github homepage
 description: AbuQdais Amani's github homepage
+baseurl: ""
+url: "https://aq-amani.github.io"
