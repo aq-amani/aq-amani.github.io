@@ -1,16 +1,16 @@
 theme: jekyll-theme-minimal
-title: AbuQdais Amani's github homepage
-description: AbuQdais Amani's github homepage
+title: Amani AbuQdais
+description: Amani's github homepage
 baseurl: ""
 url: "https://aq-amani.github.io"
-social-network-links:
-  facebook: amani.abuqdais
-  github: aq-amani
-  twitter: 86kchan
-avatar: "/assets/logo.jpeg"
-author: Amani AbuQdais
-navbar-links:
-  About Me: "SRE | Engineering | Tokyo University | Science | Mathematics"
+#social-network-links:
+#  facebook: amani.abuqdais
+#  github: aq-amani
+#  twitter: 86kchan
+logo: "/assets/logo.jpeg"
+#author: Amani AbuQdais
+#navbar-links:
+#  About Me: "SRE | Engineering | Tokyo University | Science | Mathematics"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
