@@ -17,6 +17,11 @@ defaults:
     values:
       layout: "post"
 
+social_media:
+  facebook: aq.amani
+  twitter: 86kchan
+  website: https://nippon86.blogspot.com
+
 projects:
   sort_by: pushed
   # sort_by options:
@@ -28,11 +33,6 @@ projects:
     forks: true
     projects:
      - aq-amani.github.io
-
-#social_media:
-#  - facebook: aq.amani
-#  - twitter: 86kchan
-#  - website: https://nippon86.blogspot.com
 
 topics:
   - name: AWS
