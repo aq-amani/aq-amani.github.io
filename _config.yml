@@ -29,10 +29,10 @@ projects:
     projects:
      - aq-amani.github.io
 
-social_media:
-  facebook: aq.amani
-  twitter: 86kchan
-  website: https://nippon86.blogspot.com
+#social_media:
+#  - facebook: aq.amani
+#  - twitter: 86kchan
+#  - website: https://nippon86.blogspot.com
 
 topics:
   - name: AWS
