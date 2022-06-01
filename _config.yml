@@ -35,7 +35,7 @@ projects:
      - aq-amani.github.io
 
 topics:
-  - name: Numpy
+  - name: NumPy
     web_url: https://github.com/topics/numpy
     image_url: https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png
 
